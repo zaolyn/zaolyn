@@ -1,6 +1,6 @@
 ### it's me faza👋
 
-- I'm Junior front end web developer
+- I'm Junior Mobile Frontend developer
 - UI/UX Designer
-- 17 y'o
+- 19 y'o
 
